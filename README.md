@@ -11,6 +11,6 @@
 
 React, ReactDOM, Yarn, Parcel
 
-##Acknowledgments
+## Acknowledgments
 
 [Vignesh M](https://twitter.com/vigzmv) and Parcel team
