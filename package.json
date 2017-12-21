@@ -1,0 +1,7 @@
+{
+  "name": "Parcel",
+  "version": "1.0.0",
+  "description": "Playing with ParcelJS",
+  "main": "index.js",
+  "license": "MIT"
+}
